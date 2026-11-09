@@ -19,7 +19,7 @@ As atividades estão organizadas em pastas de acordo com as aulas, exercícios e
 
 ### Sumário
 
-- [Aula 02 – Introdução à Linguagem C](Aula02/Introducao-a-Linguagem-C/) 
+- [Aula 02 – Introdução à Linguagem C](Aula02/) 
 - [Aula 03](Aula03/)
 - [Aula 04](Aula04/)
 - [Projetos](Projetos/)
